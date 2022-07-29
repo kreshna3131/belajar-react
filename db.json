@@ -1,0 +1,93 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman Dark",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clark"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman",
+      "alterEgo": "Princess"
+    },
+    {
+      "name": "Test 1",
+      "alterEgo": "Anak test 1",
+      "id": 4
+    },
+    {
+      "name": "Test 2",
+      "alterEgo": "ini test 2",
+      "id": 5
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Chandler Bing"
+    },
+    {
+      "id": 2,
+      "name": "Joey"
+    },
+    {
+      "id": 3,
+      "name": "Rachel Green"
+    }
+  ],
+  "users": [
+    {
+      "id": "drumerdunia31@gmail.com",
+      "channelId": "kreshnaputra"
+    }
+  ],
+  "channels": [
+    {
+      "id": "kreshnaputra",
+      "courses": [
+        "react",
+        "laravel",
+        "Codeigniter"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "merah"
+    },
+    {
+      "id": 2,
+      "label": "biru"
+    },
+    {
+      "id": 3,
+      "label": "ungu"
+    },
+    {
+      "id": 4,
+      "label": "pink"
+    },
+    {
+      "id": 5,
+      "label": "hijau"
+    },
+    {
+      "id": 6,
+      "label": "putih"
+    },
+    {
+      "id": 7,
+      "label": "kuning"
+    },
+    {
+      "id": 8,
+      "label": "abuabu"
+    }
+  ]
+}
